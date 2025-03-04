@@ -1,0 +1,18 @@
+INFO 2025-03-03 20:54:13 System started.
+WARN 2025-03-03 20:54:13 Low disk space.
+ERROR 2025-03-03 20:54:13 Failed to connect to the database.
+INFO 2025-03-03 20:54:13 User logged in.
+ERROR 2025-03-03 20:54:13 Network timeout occurred.
+INFO 2025-03-03 20:54:13 Scheduled task completed.
+WARN 2025-03-03 20:54:14 High memory usage detected.
+INFO 2025-03-03 20:54:14 Backup completed successfully.
+ERROR 2025-03-03 20:54:14 Unauthorized access attempt detected.
+INFO 2025-03-03 20:54:52 System started.
+WARN 2025-03-03 20:54:52 Low disk space.
+ERROR 2025-03-03 20:54:52 Failed to connect to the database.
+INFO 2025-03-03 20:54:52 User logged in.
+ERROR 2025-03-03 20:54:52 Network timeout occurred.
+INFO 2025-03-03 20:54:52 Scheduled task completed.
+WARN 2025-03-03 20:54:52 High memory usage detected.
+INFO 2025-03-03 20:54:52 Backup completed successfully.
+ERROR 2025-03-03 20:54:52 Unauthorized access attempt detected.
